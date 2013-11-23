@@ -21,6 +21,7 @@
 		B388E39218414409007CE8A2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B388E37418414409007CE8A2 /* UIKit.framework */; };
 		B388E39A18414409007CE8A2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B388E39818414409007CE8A2 /* InfoPlist.strings */; };
 		B388E39C18414409007CE8A2 /* ColorPickerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B388E39B18414409007CE8A2 /* ColorPickerTests.m */; };
+		B388E3A8184144AE007CE8A2 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = B388E3A7184144AE007CE8A2 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		B388E39718414409007CE8A2 /* ColorPickerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ColorPickerTests-Info.plist"; sourceTree = "<group>"; };
 		B388E39918414409007CE8A2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B388E39B18414409007CE8A2 /* ColorPickerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ColorPickerTests.m; sourceTree = "<group>"; };
+		B388E3A7184144AE007CE8A2 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				B388E38518414409007CE8A2 /* HBViewController.h */,
 				B388E38618414409007CE8A2 /* HBViewController.m */,
 				B388E38818414409007CE8A2 /* Images.xcassets */,
+				B388E3A7184144AE007CE8A2 /* .gitignore */,
 				B388E37718414409007CE8A2 /* Supporting Files */,
 			);
 			path = ColorPicker;
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B388E3A8184144AE007CE8A2 /* .gitignore in Resources */,
 				B388E38918414409007CE8A2 /* Images.xcassets in Resources */,
 				B388E37B18414409007CE8A2 /* InfoPlist.strings in Resources */,
 				B388E38418414409007CE8A2 /* Main.storyboard in Resources */,
