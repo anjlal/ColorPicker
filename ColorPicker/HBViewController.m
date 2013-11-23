@@ -9,7 +9,8 @@
 #import "HBViewController.h"
 
 @interface HBViewController ()
-
+@property (weak, nonatomic) IBOutlet UIView *colorWell;
+ 
 @end
 
 @implementation HBViewController
